@@ -3,7 +3,7 @@
 This repository contains the code for a family of models that tries to zip a text file given in input.
 The models are trained to predict the hexadecimal version of the zip, as explained in the image
 
-![approach]("images/approach.png")
+![approach](images/approach.png)
 
 ## Performances with bart-large
 
