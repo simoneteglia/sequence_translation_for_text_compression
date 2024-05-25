@@ -1,7 +1,6 @@
 # sequence_translation_for_text_compression
 
-This repository contains the code for a family of models that tries to zip a text file given in input.
-The models are trained to predict the hexadecimal version of the zip, as explained in the image
+This project explores the possibility of the application of neural network models to a sequence to sequence translation task with the aim of text compression. We investigate the feasibility of using deep learning techniques to emulate traditional zipping software, focusing on the Deflate algorithm for its balance between simplicity and efficiency. Our approach involves converting text and zipped files into hexadecimal format to facilitate model training and prediction. 
 
 ![approach](images/approach.png)
 
